@@ -1,31 +1,105 @@
 [
   {
-    "title": "Research Experience",
+    "title": "Education",
     "entries": [
       {
-        "title": "Doctoral Researcher",
-        "organization": "Example University",
-        "dates": "Sep 2024 - Present",
+        "title": "PhD, Chemistry (Analytical Chemistry, Structural Biology, Enzymology)",
+        "organization": "University of Georgia",
+        "dates": "Aug 2023 - Present",
         "logo": "assets/images/institution-placeholder.svg",
-        "logo_alt": "Example University logo placeholder",
-        "flag": "GB-ENG",
-        "flag_alt": "Country flag",
+        "logo_alt": "University of Georgia logo placeholder",
+        "flag": "US",
+        "flag_alt": "United States flag"
+      },
+      {
+        "title": "Graduate Certificate in Sustainability",
+        "organization": "University of Georgia",
+        "dates": "Dec 2025",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "University of Georgia logo placeholder",
+        "flag": "US",
+        "flag_alt": "United States flag",
         "bullets": [
-          "Researching an example topic in the Example Research Group.",
-          "Developing methods for an example application and collaborating with domain experts."
+          "Capstone Project: Veterinary Medicine Pollinator Meadow"
         ]
       },
       {
-        "title": "Research Assistant",
-        "organization": "Example Research Institute",
-        "dates": "Jun 2023 - Aug 2024",
+        "title": "B.Sc., Chemistry",
+        "organization": "University of Nigeria, Nsukka",
+        "dates": "Dec 2018",
         "logo": "assets/images/institution-placeholder.svg",
-        "logo_alt": "Example Research Institute logo placeholder",
-        "flag": "US",
-        "flag_alt": "Country flag",
+        "logo_alt": "University of Nigeria, Nsukka logo placeholder",
+        "flag": "NG",
+        "flag_alt": "Nigeria flag",
         "bullets": [
-          "Supported an interdisciplinary research project.",
-          "Analysed data and contributed to a peer-reviewed manuscript."
+          "Graduated as Best Final Year Science Student",
+          "Project: Development of a rapid and sensitive bioassay for detecting pesticide residues in cocoyam produced in Ikere LGA, Ekiti State, Nigeria"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Research Experience",
+    "entries": [
+      {
+        "title": "Graduate Assistant / Doctoral Researcher",
+        "organization": "Phillips Lab, University of Georgia",
+        "dates": "Aug 2023 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "University of Georgia logo placeholder",
+        "flag": "US",
+        "flag_alt": "United States flag",
+        "bullets": [
+          "Investigating AprL, a PLP-dependent aminotransferase in apramycin biosynthesis, through expression, purification, enzyme kinetics, and structural studies (X-ray crystallography and cryo-EM) to elucidate catalytic mechanism and substrate specificity",
+          "Conducted advanced N-glycan analysis using HPLC-IM-MS, optimizing chromatographic stationary phases and storage conditions to improve glycomics workflows",
+          "Obtained crystal hits from high-throughput screening with preliminary X-ray diffraction data",
+          "Developed computational workflows combining molecular docking, molecular dynamics, and MM/GBSA free energy calculations",
+          "Advised by Prof. Robert S. Phillips"
+        ]
+      },
+      {
+        "title": "Graduate Research Assistant",
+        "organization": "Laboratory of Molecular Biology, Bioinformatics and Immunology, First-Mark Innovation Research Center, Ado, Nigeria",
+        "dates": "Oct 2020 - Jun 2023",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "First-Mark Innovation Research Center logo placeholder",
+        "flag": "NG",
+        "flag_alt": "Nigeria flag",
+        "bullets": [
+          "Conducted in vivo investigations into pharmacological strategies against malaria using genetically modified mosquitoes, culminating in the development of Maledine, an herbal malaria repellent with efficacy equivalent to 50% DEET, prepared for clinical trials in Nigeria",
+          "Supervised six undergraduate research projects and led training of three project assistants and 17 interns over six months, covering sample selection, data collection, and molecular modeling (docking, MD simulations, energy minimizations)"
+        ]
+      },
+      {
+        "title": "Undergraduate Research Assistant",
+        "organization": "University of Nigeria, Nsukka",
+        "dates": "Aug 2015 - May 2018",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "University of Nigeria, Nsukka logo placeholder",
+        "flag": "NG",
+        "flag_alt": "Nigeria flag",
+        "bullets": [
+          "Designed, optimized, and validated bioassays for pesticide detection; analyzed data and collaborated with the research team",
+          "Developed and validated analytical methods for confirming pesticide residues, comparing results with bioassays"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Industry Experience",
+    "entries": [
+      {
+        "title": "Spring TDS Proteins API CEAS Automation Co-op Student",
+        "organization": "Johnson & Johnson, Spring House, Pennsylvania",
+        "dates": "Feb 2026 - Aug 2026",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Johnson & Johnson logo placeholder",
+        "flag": "US",
+        "flag_alt": "United States flag",
+        "bullets": [
+          "Develop automation-ready laboratory workflows integrating robotics, digital tools, and analytical data pipelines to improve reliability, traceability, and scalability in biotherapeutic research",
+          "Collaborate with cross-functional teams to translate scientific workflows into scalable automation solutions",
+          "President, Spring House Intern & Co-Op Association (Jul 2026 - Present); previously Vice President (Apr 2026 - Jul 2026)"
         ]
       }
     ]
@@ -34,40 +108,141 @@
     "title": "Teaching Experience",
     "entries": [
       {
-        "title": "Teaching Assistant",
-        "organization": "Example University",
-        "dates": "Jan 2025 - May 2025",
+        "title": "Graduate Teaching Assistant",
+        "organization": "University of Georgia (CHEM 2211L)",
+        "dates": "Aug 2023 - Present",
         "logo": "assets/images/institution-placeholder.svg",
-        "logo_alt": "Example University logo placeholder",
-        "flag": "GB-ENG",
-        "flag_alt": "Country flag",
+        "logo_alt": "University of Georgia logo placeholder",
+        "flag": "US",
+        "flag_alt": "United States flag",
         "bullets": [
-          "Assisted with Example Course: Introduction to the Subject.",
-          "Led tutorials and provided feedback on coursework."
+          "Direct lab experiments for introductory organic chemistry, providing hands-on instruction",
+          "Manage 2 classrooms of 24 students each, ensuring effective instruction and safety compliance"
+        ]
+      },
+      {
+        "title": "Graduate Teaching Assistant",
+        "organization": "Virtuous High School, Ibadan, Nigeria",
+        "dates": "Sep 2019 - Jul 2020",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Virtuous High School logo placeholder",
+        "flag": "NG",
+        "flag_alt": "Nigeria flag",
+        "bullets": [
+          "Delivered 121 hours of Basic Science and Chemistry lessons to JSS3 and SS1-2 students, benefiting over 170 students"
+        ]
+      },
+      {
+        "title": "Undergraduate Teaching Assistant",
+        "organization": "University of Nigeria, Nsukka",
+        "dates": "Jul 2017 - Aug 2018",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "University of Nigeria, Nsukka logo placeholder",
+        "flag": "NG",
+        "flag_alt": "Nigeria flag",
+        "bullets": [
+          "Assisted with grading of first-year laboratory practical notes (CHM111, CHM171) for classes of 70+ students",
+          "Held weekly tutorials on CHM221, CHM211, Special Methods, and Chemical Kinetics for second-year students"
         ]
       }
     ]
   },
   {
-    "title": "Education",
+    "title": "Leadership & Professional Service",
     "entries": [
       {
-        "title": "Doctor of Philosophy (PhD), Example Subject",
-        "organization": "Example University",
-        "dates": "2024 - Present",
+        "title": "President, Spring House Intern & Co-Op Association",
+        "organization": "Johnson & Johnson",
+        "dates": "Jul 2026 - Present",
         "logo": "assets/images/institution-placeholder.svg",
-        "logo_alt": "Example University logo placeholder",
-        "flag": "GB-ENG",
-        "flag_alt": "Country flag"
+        "logo_alt": "Johnson & Johnson logo placeholder"
       },
       {
-        "title": "Master of Science, Example Subject",
-        "organization": "Example University",
-        "dates": "2022 - 2023",
+        "title": "USA Student Ambassador",
+        "organization": "Society of Actuaries (SOA)",
+        "dates": "Jul 2026 - Present",
         "logo": "assets/images/institution-placeholder.svg",
-        "logo_alt": "Example University logo placeholder",
+        "logo_alt": "Society of Actuaries logo placeholder"
+      },
+      {
+        "title": "Board of Directors, Finance Committee Member",
+        "organization": "Women in Cleantech & Sustainability",
+        "dates": "Jan 2026 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Women in Cleantech & Sustainability logo placeholder"
+      },
+      {
+        "title": "Member, Communications Committee",
+        "organization": "International Society for Evolution, Medicine, and Public Health (ISEMPH)",
+        "dates": "Nov 2025 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "ISEMPH logo placeholder"
+      },
+      {
+        "title": "Student Advisory Board Member",
+        "organization": "1,000 Dreams Fund",
+        "dates": "Sep 2025 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "1,000 Dreams Fund logo placeholder"
+      },
+      {
+        "title": "Board Member",
+        "organization": "StudentsCare",
+        "dates": "Sep 2025 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "StudentsCare logo placeholder"
+      },
+      {
+        "title": "Secretary",
+        "organization": "SACNAS, Georgia Chapter",
+        "dates": "Jul 2025 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "SACNAS logo placeholder"
+      },
+      {
+        "title": "3rd Term Ambassador",
+        "organization": "University of Georgia Office of Emergency Preparedness",
+        "dates": "Jun 2024 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "University of Georgia logo placeholder",
         "flag": "US",
-        "flag_alt": "Country flag"
+        "flag_alt": "United States flag"
+      }
+    ]
+  },
+  {
+    "title": "Editorial & Peer Review",
+    "entries": [
+      {
+        "title": "Editor",
+        "organization": "Vexido Publications",
+        "dates": "Feb 2025 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Vexido Publications logo placeholder"
+      },
+      {
+        "title": "Editor",
+        "organization": "International Journal of Chemistry Research",
+        "dates": "Feb 2025 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "International Journal of Chemistry Research logo placeholder"
+      },
+      {
+        "title": "Reviewer",
+        "organization": "JMIR Publications",
+        "dates": "Oct 2025 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "JMIR logo placeholder"
+      },
+      {
+        "title": "Reviewer",
+        "organization": "Web of Science-verified peer review service across multiple journals (International Journal of Research and Innovation in Applied Science, Water Practice and Technology, Taylor & Francis - Physical Sciences and Molecular Physics, and others)",
+        "dates": "Jul 2023 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Peer review logo placeholder",
+        "bullets": [
+          "Over 100 manuscripts reviewed"
+        ]
       }
     ]
   },
@@ -75,13 +250,144 @@
     "title": "Honors and Awards",
     "entries": [
       {
-        "title": "Example Academic Award",
-        "organization": "Example Professional Society",
-        "dates": "May 2025",
+        "title": "Full Member (Elected)",
+        "organization": "Sigma Xi, The Scientific Research Honor Society",
+        "dates": "Aug 2025 - Present",
         "logo": "assets/images/institution-placeholder.svg",
-        "logo_alt": "Awarding organization logo placeholder",
-        "flag": "GB-ENG",
-        "flag_alt": "Country flag"
+        "logo_alt": "Sigma Xi logo placeholder"
+      },
+      {
+        "title": "HUPO 2026 Travel Award ($1,000)",
+        "organization": "Human Proteome Organization",
+        "dates": "2026",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "HUPO logo placeholder"
+      },
+      {
+        "title": "SLAS Travel Award (SLAS2026, valued $4,500+)",
+        "organization": "Society for Laboratory Automation and Screening",
+        "dates": "2026",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "SLAS logo placeholder"
+      },
+      {
+        "title": "Gordon Research Conference Travel Award",
+        "organization": "Enzymes, Coenzymes & Metabolic Pathways GRC",
+        "dates": "2025",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Gordon Research Conference logo placeholder"
+      },
+      {
+        "title": "NOBCChE Advancing Science Conference Grant (Tier 1)",
+        "organization": "NOBCChE",
+        "dates": "2026",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "NOBCChE logo placeholder"
+      },
+      {
+        "title": "ACS Division of Biological Chemistry and Chemical Biology Travel Award ($600)",
+        "organization": "American Chemical Society",
+        "dates": "2026",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "ACS logo placeholder"
+      },
+      {
+        "title": "Travel Award & Registration Waiver ($700), Cancer Glyco-X 2026",
+        "organization": "Van Andel Institute",
+        "dates": "2026",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Van Andel Institute logo placeholder"
+      },
+      {
+        "title": "Fully Funded Invited Participant, AIM Workshop (NSF Sponsored)",
+        "organization": "American Institute of Mathematics",
+        "dates": "Mar-Apr 2026",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "American Institute of Mathematics logo placeholder"
+      },
+      {
+        "title": "Best Final Year Science Student",
+        "organization": "University of Nigeria, Nsukka",
+        "dates": "2018",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "University of Nigeria, Nsukka logo placeholder",
+        "flag": "NG",
+        "flag_alt": "Nigeria flag"
+      }
+    ]
+  },
+  {
+    "title": "Professional Memberships",
+    "entries": [
+      {
+        "title": "Full Member",
+        "organization": "Sigma Xi, The Scientific Research Honor Society",
+        "dates": "Aug 2025 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Sigma Xi logo placeholder"
+      },
+      {
+        "title": "Elected Member",
+        "organization": "National Institute of Professional Engineers and Scientists (NIPES)",
+        "dates": "Nov 2025 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "NIPES logo placeholder"
+      },
+      {
+        "title": "Member",
+        "organization": "American Chemical Society (Analytical Chemistry, Biological Chemistry, Carbohydrate Chemistry, and Chemical Glycobiology divisions)",
+        "dates": "Jan 2025 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "American Chemical Society logo placeholder"
+      },
+      {
+        "title": "Member",
+        "organization": "Royal Society of Chemistry (RSC)",
+        "dates": "Jan 2022 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Royal Society of Chemistry logo placeholder"
+      },
+      {
+        "title": "Member",
+        "organization": "NOBCChE",
+        "dates": "Jun 2025 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "NOBCChE logo placeholder"
+      },
+      {
+        "title": "Member and Chapter Secretary",
+        "organization": "SACNAS",
+        "dates": "Jul 2025 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "SACNAS logo placeholder"
+      },
+      {
+        "title": "Member",
+        "organization": "American Indian Science and Engineering Society (AISES)",
+        "dates": "Jul 2025 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "AISES logo placeholder"
+      },
+      {
+        "title": "Member",
+        "organization": "Society for Laboratory Automation and Screening, Americas Chapter (SLAS Americas)",
+        "dates": "Aug 2025 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "SLAS logo placeholder"
+      },
+      {
+        "title": "Member",
+        "organization": "ACA: The Structural Science Society (formerly American Crystallographic Association)",
+        "dates": "Jan 2026 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "ACA logo placeholder"
+      },
+      {
+        "title": "Member",
+        "organization": "Females in Mass Spectrometry (FeMS)",
+        "dates": "Jul 2025 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "FeMS logo placeholder"
       }
     ]
   }
