@@ -1,26 +1,26 @@
 [
   {
-    "id": "project-example-one",
-    "title": "Example Research Project",
-    "summary": "A concise description of the research question, method, and intended impact of this project.",
+    "id": "aprl-characterization",
+    "title": "Structural and Mechanistic Characterization of AprL",
+    "summary": "Doctoral research on AprL, a PLP-dependent aminotransferase in apramycin biosynthesis relevant to antimicrobial resistance. Combines enzyme kinetics, X-ray crystallography, and computational workflows (molecular docking, MD, MM/GBSA) to elucidate catalytic mechanism and substrate specificity.",
     "image": "assets/images/project-placeholder.svg",
-    "image_alt": "Example Research Project placeholder image",
-    "url": "pages/projects/project-example-one.html"
+    "image_alt": "AprL enzyme research project placeholder image",
+    "url": "pages/publications.html"
   },
   {
-    "id": "project-example-two",
-    "title": "Example Collaborative Project",
-    "summary": "A second example showing how to describe collaborative or interdisciplinary research.",
+    "id": "glycomics-lc-im-ms",
+    "title": "N-Linked Glycan Structural Characterization by LC-IM-MS",
+    "summary": "Analytical method development for glycomics, including porous graphitic carbon (PGC) chromatography optimization, ion mobility-mass spectrometry structural characterization of glycan isomers, and reproducible storage protocols for released N-linked glycans.",
     "image": "assets/images/project-placeholder.svg",
-    "image_alt": "Example Collaborative Project placeholder image",
-    "url": "pages/projects/project-example-two.html"
+    "image_alt": "Glycomics LC-IM-MS research project placeholder image",
+    "url": "pages/publications.html"
   },
   {
-    "id": "project-external",
-    "title": "Project with an External Website",
-    "summary": "Project cards may also link directly to an external project website or software demonstration.",
+    "id": "jnj-lab-automation",
+    "title": "Laboratory Automation for Biotherapeutic Manufacturing",
+    "summary": "Co-op work with the API CEAS Automation team at Johnson & Johnson, Spring House, developing robotic workcell control logic and autonomous transport systems, including a 2D barcode reader workflow and a small-volume pH measurement method.",
     "image": "assets/images/project-placeholder.svg",
-    "image_alt": "External project placeholder image",
-    "url": "https://example.com"
+    "image_alt": "Johnson & Johnson lab automation project placeholder image",
+    "url": "pages/cv.html"
   }
 ]
