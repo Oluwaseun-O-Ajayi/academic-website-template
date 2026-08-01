@@ -1,21 +1,31 @@
 [
   {
-    "date": "2026-06-15",
-    "text": "Jane presented recent research at the Example International Conference.",
-    "image": "",
-    "gif": "",
-    "url": "https://example.com",
-    "url_label": "Conference website"
-  },
-  {
-    "date": "2026-03-10",
-    "text": "Jane's paper on an example research topic was accepted for publication.",
+    "date": "2026-07",
+    "text": "Appointed President of the Johnson & Johnson Spring House Intern & Co-Op Association, after previously serving as Vice President.",
     "image": "",
     "gif": ""
   },
   {
-    "date": "2026-01-08",
-    "text": "Jane joined Example University as a doctoral researcher.",
+    "date": "2026-05",
+    "text": "Presented \"Optimizing PGC LC Ion Mobility Mass Spectrometry for Structural Characterization of Cancer-Related N-Linked Glycans\" as a poster and poster highlight talk at Cancer Glyco X-2026, Van Andel Institute.",
+    "image": "",
+    "gif": ""
+  },
+  {
+    "date": "2026-03",
+    "text": "Presented \"Structural and Mechanistic Characterization of AprL, a PLP-Dependent Aminotransferase in Apramycin Biosynthesis\" at ACS Spring 2026, Atlanta.",
+    "image": "",
+    "gif": ""
+  },
+  {
+    "date": "2026-01",
+    "text": "Named one of three finalists for the 2026 Women in Chemicals Woman of the Year Award.",
+    "image": "",
+    "gif": ""
+  },
+  {
+    "date": "2025-08",
+    "text": "Elected as a Full Member of Sigma Xi, The Scientific Research Honor Society.",
     "image": "",
     "gif": ""
   }
