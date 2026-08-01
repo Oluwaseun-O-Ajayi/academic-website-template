@@ -1,0 +1,1687 @@
+[
+  {
+    "title": "Education",
+    "entries": [
+      {
+        "title": "PhD, Chemistry (Analytical Chemistry, Structural Biology, Enzymology)",
+        "organization": "University of Georgia",
+        "dates": "Aug 2023 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "University of Georgia logo placeholder",
+        "flag": "US",
+        "flag_alt": "Country flag"
+      },
+      {
+        "title": "Graduate Certificate in Sustainability",
+        "organization": "University of Georgia",
+        "dates": "Dec 2025",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "University of Georgia logo placeholder",
+        "flag": "US",
+        "flag_alt": "Country flag",
+        "bullets": [
+          "Capstone Project: Veterinary Medicine Pollinator Meadow"
+        ]
+      },
+      {
+        "title": "B.Sc., Chemistry",
+        "organization": "University of Nigeria, Nsukka",
+        "dates": "Dec 2018",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "University of Nigeria, Nsukka logo placeholder",
+        "flag": "NG",
+        "flag_alt": "Country flag",
+        "bullets": [
+          "Graduated as Best Final Year Science Student",
+          "Project: Development of a rapid and sensitive bioassay for detecting pesticide residues in cocoyam produced in Ikere LGA, Ekiti State, Nigeria"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Research Experience",
+    "entries": [
+      {
+        "title": "Graduate Assistant / Doctoral Researcher",
+        "organization": "Phillips Lab, University of Georgia",
+        "dates": "Aug 2023 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Phillips Lab, University of Georgia logo placeholder",
+        "flag": "US",
+        "flag_alt": "Country flag",
+        "bullets": [
+          "Investigating AprL, a PLP-dependent aminotransferase in apramycin biosynthesis, through expression, purification, enzyme kinetics, and structural studies (X-ray crystallography and cryo-EM) to elucidate catalytic mechanism and substrate specificity",
+          "Conducted advanced N-glycan analysis using HPLC-IM-MS, optimizing chromatographic stationary phases and storage conditions to improve glycomics workflows",
+          "Applied mass spectrometry, spectrophotometry, and chromatography to characterize biomolecules with high precision",
+          "Collaborated with faculty, graduate peers, and industry partners to align research goals with broader scientific and industrial applications",
+          "Advised by Prof. Robert S. Phillips"
+        ]
+      },
+      {
+        "title": "AprL Enzyme Characterization (Key Project)",
+        "organization": "Phillips Lab, University of Georgia",
+        "dates": "Jan 2025 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Phillips Lab, University of Georgia logo placeholder",
+        "flag": "US",
+        "flag_alt": "Country flag",
+        "bullets": [
+          "Expressing and purifying AprL in E. coli; optimizing protein yield and stability",
+          "Designing and performing enzyme kinetics assays to probe catalytic activity",
+          "Planning structural elucidation via X-ray crystallography and cryo-EM"
+        ]
+      },
+      {
+        "title": "PGC Stationary Phase Performance (Key Project)",
+        "organization": "Phillips Lab, University of Georgia",
+        "dates": "Aug 2024 - Dec 2024",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Phillips Lab, University of Georgia logo placeholder",
+        "flag": "US",
+        "flag_alt": "Country flag",
+        "bullets": [
+          "Investigated temperature-dependent retention mechanisms for monosaccharides, disaccharides, and glycopeptides",
+          "Enhanced understanding of stationary phase selectivity to improve glycan separations"
+        ]
+      },
+      {
+        "title": "Sialylated N-Linked Glycan Isomeric Structures (Key Project)",
+        "organization": "Phillips Lab, University of Georgia",
+        "dates": "Oct 2023 - Aug 2024",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Phillips Lab, University of Georgia logo placeholder",
+        "flag": "US",
+        "flag_alt": "Country flag",
+        "bullets": [
+          "Characterized glycan isomers using ion mobility-mass spectrometry (IM-MS)",
+          "Compared structural variations in glycoproteins (e.g., bovine fetuin, human transferrin, RNase B)"
+        ]
+      },
+      {
+        "title": "Solubility Checks on N-Linked Glycans: Organic Solvents vs Aqueous Storage (Key Project)",
+        "organization": "Phillips Lab, University of Georgia",
+        "dates": "Apr 2024 - Jun 2024",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Phillips Lab, University of Georgia logo placeholder",
+        "flag": "US",
+        "flag_alt": "Country flag",
+        "bullets": [
+          "Conducted comparative studies to optimize sample preparation for IM-MS analysis",
+          "Demonstrated the efficacy of aqueous storage for glycoproteins including transferrin, fetuin, and RNase B"
+        ]
+      },
+      {
+        "title": "Graduate Research Assistant",
+        "organization": "Laboratory of Molecular Biology, Bioinformatics and Immunology, First-Mark Innovation Research Center, Ado, Nigeria",
+        "dates": "Oct 2020 - Jun 2023",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Laboratory of Molecular Biology, Bioinformatics and Immunology, First-Mark Innovation Research Center, Ado, Nigeria logo placeholder",
+        "flag": "NG",
+        "flag_alt": "Country flag",
+        "bullets": [
+          "Conducted in vivo investigations into pharmacological strategies against malaria using genetically modified mosquitoes, culminating in the development of Maledine, an herbal malaria repellent with efficacy equivalent to 50% DEET, prepared for clinical trials in Nigeria",
+          "Supervised six undergraduate research projects and led training of three project assistants and 17 interns over six months, covering sample selection, data collection, and molecular modeling (docking, MD simulations, energy minimizations)"
+        ]
+      },
+      {
+        "title": "Undergraduate Research Assistant",
+        "organization": "University of Nigeria, Nsukka",
+        "dates": "Aug 2015 - May 2018",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "University of Nigeria, Nsukka logo placeholder",
+        "flag": "NG",
+        "flag_alt": "Country flag",
+        "bullets": [
+          "Designed, optimized, and validated bioassays for pesticide detection; analyzed data and collaborated with the research team",
+          "Developed and validated analytical methods for confirming pesticide residues, comparing results with bioassays"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Industry Experience",
+    "entries": [
+      {
+        "title": "Spring TDS Proteins API CEAS Automation Co-op Student",
+        "organization": "Johnson & Johnson, Spring House, Pennsylvania",
+        "dates": "Feb 2026 - Aug 2026",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Johnson & Johnson, Spring House, Pennsylvania logo placeholder",
+        "flag": "US",
+        "flag_alt": "Country flag",
+        "bullets": [
+          "Develop automation-ready laboratory workflows integrating robotics, digital tools, and analytical data pipelines to improve reliability, traceability, and scalability in biotherapeutic research",
+          "Collaborate with cross-functional teams to translate scientific workflows into scalable automation solutions that enhance operational efficiency and data-driven decision making"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Teaching Experience",
+    "entries": [
+      {
+        "title": "Graduate Teaching Assistant",
+        "organization": "University of Georgia (CHEM 2211L)",
+        "dates": "Aug 2023 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "University of Georgia (CHEM 2211L) logo placeholder",
+        "flag": "US",
+        "flag_alt": "Country flag",
+        "bullets": [
+          "Direct lab experiments for introductory organic chemistry, providing hands-on instruction",
+          "Manage 2 classrooms of 24 students each, ensuring effective instruction and safety compliance"
+        ]
+      },
+      {
+        "title": "Graduate Teaching Assistant",
+        "organization": "Virtuous High School, Ibadan, Nigeria",
+        "dates": "Sep 2019 - Jul 2020",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Virtuous High School, Ibadan, Nigeria logo placeholder",
+        "flag": "NG",
+        "flag_alt": "Country flag",
+        "bullets": [
+          "Delivered 121 hours of Basic Science and Chemistry lessons to JSS3 and SS1-2 students, benefiting over 170 students"
+        ]
+      },
+      {
+        "title": "Undergraduate Teaching Assistant",
+        "organization": "University of Nigeria, Nsukka",
+        "dates": "Jul 2017 - Aug 2018",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "University of Nigeria, Nsukka logo placeholder",
+        "flag": "NG",
+        "flag_alt": "Country flag",
+        "bullets": [
+          "Assisted with grading of first-year laboratory practical notes (CHM111, CHM171) for classes of 70+ students",
+          "Held weekly tutorials on CHM221, CHM211, Special Methods, and Chemical Kinetics for second-year students"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Leadership & Community Service (Full)",
+    "entries": [
+      {
+        "title": "President",
+        "organization": "Johnson & Johnson - Spring House Intern & Co-Op Association",
+        "dates": "Jul 2026 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Johnson & Johnson - Spring House Intern & Co-Op Association logo placeholder",
+        "bullets": [
+          "Appointed President following a leadership transition to provide strategic direction and ensure organizational continuity",
+          "Lead the executive team in advancing professional development, networking, community engagement, and inclusion initiatives for interns and co-ops across the Spring House R&D site",
+          "Oversee organizational planning, communications, budgeting, and long-term leadership continuity, and developed a sustainable knowledge transfer framework"
+        ]
+      },
+      {
+        "title": "USA Student Ambassador",
+        "organization": "Society of Actuaries (SOA)",
+        "dates": "Jul 2026 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Society of Actuaries (SOA) logo placeholder",
+        "bullets": [
+          "Selected to promote awareness of the actuarial profession and career opportunities on campus",
+          "Engage in campus outreach and represent SOA within the university community"
+        ]
+      },
+      {
+        "title": "Workgroup Member, MSACL-CAC Training Workgroup",
+        "organization": "Mass Spectrometry & Advances in the Clinical Lab (MSACL) Clinical and Applied Chemistry Committee",
+        "dates": "Apr 2026 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Mass Spectrometry & Advances in the Clinical Lab (MSACL) Clinical and Applied Chemistry Committee logo placeholder",
+        "bullets": [
+          "Contributed to strategic planning, workforce training needs identification, and development of accessible training materials for clinical mass spectrometry practitioners"
+        ]
+      },
+      {
+        "title": "Vice President",
+        "organization": "Johnson & Johnson - Spring House Intern & Co-Op Association",
+        "dates": "Apr 2026 - Jul 2026",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Johnson & Johnson - Spring House Intern & Co-Op Association logo placeholder",
+        "bullets": [
+          "Supported intern and co-op engagement initiatives, financial oversight, budget review, and coordination of professional development programming"
+        ]
+      },
+      {
+        "title": "Board of Directors, Finance Committee Member",
+        "organization": "Women in Cleantech & Sustainability (WCS)",
+        "dates": "Jan 2026 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Women in Cleantech & Sustainability (WCS) logo placeholder",
+        "bullets": [
+          "Responsibilities include budget review, financial oversight, and board-level governance"
+        ]
+      },
+      {
+        "title": "Member, Communications Committee",
+        "organization": "International Society for Evolution, Medicine, and Public Health (ISEMPH)",
+        "dates": "Nov 2025 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "International Society for Evolution, Medicine, and Public Health (ISEMPH) logo placeholder",
+        "bullets": [
+          "Develop social media content highlighting evolutionary medicine research, conferences, and member achievements"
+        ]
+      },
+      {
+        "title": "Student Advisory Board Member",
+        "organization": "1,000 Dreams Fund",
+        "dates": "Sep 2025 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "1,000 Dreams Fund logo placeholder",
+        "bullets": [
+          "Evaluate scholarship applications for $1M+ in funding; contribute to fundraising strategy"
+        ]
+      },
+      {
+        "title": "Board Member",
+        "organization": "StudentsCare",
+        "dates": "Sep 2025 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "StudentsCare logo placeholder",
+        "bullets": [
+          "Provide governance and strategic oversight for a national nonprofit connecting undergraduate healthcare students with hospitalized children and isolated older adults"
+        ]
+      },
+      {
+        "title": "Secretary",
+        "organization": "SACNAS, Georgia Chapter",
+        "dates": "Jul 2025 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "SACNAS, Georgia Chapter logo placeholder",
+        "bullets": [
+          "Support chapter operations, meetings, and communications to advance diversity, mentorship, and leadership development in STEM"
+        ]
+      },
+      {
+        "title": "3rd Term Ambassador",
+        "organization": "University of Georgia Office of Emergency Preparedness",
+        "dates": "Jun 2024 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "University of Georgia Office of Emergency Preparedness logo placeholder",
+        "flag": "US",
+        "flag_alt": "Country flag"
+      },
+      {
+        "title": "Member",
+        "organization": "University of Georgia Medical Reserve Corps",
+        "dates": "Jul 2023 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "University of Georgia Medical Reserve Corps logo placeholder",
+        "flag": "US",
+        "flag_alt": "Country flag"
+      },
+      {
+        "title": "Member",
+        "organization": "University of Georgia Veterinary Medicine Pollinator Meadow Project",
+        "dates": "Aug 2023 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "University of Georgia Veterinary Medicine Pollinator Meadow Project logo placeholder",
+        "flag": "US",
+        "flag_alt": "Country flag"
+      },
+      {
+        "title": "Mentor",
+        "organization": "America Needs You",
+        "dates": "Jan 2024 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "America Needs You logo placeholder",
+        "bullets": [
+          "Mentor first-generation college students, supporting equity and career advancement"
+        ]
+      },
+      {
+        "title": "Volunteer",
+        "organization": "UGA Serve | Engage Georgia",
+        "dates": "Aug 2023 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "UGA Serve | Engage Georgia logo placeholder",
+        "bullets": [
+          "Volunteer for local nonprofits addressing food security, homelessness, and educational equity"
+        ]
+      },
+      {
+        "title": "Volunteer",
+        "organization": "Feed My Starving Children",
+        "dates": "Apr 2024 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Feed My Starving Children logo placeholder",
+        "bullets": [
+          "Pack meals supporting humanitarian relief for children in need"
+        ]
+      },
+      {
+        "title": "Volunteer",
+        "organization": "United Nations Volunteers",
+        "dates": "Dec 2023 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "United Nations Volunteers logo placeholder",
+        "bullets": [
+          "Contribute to global volunteerism, advocacy, and policy dialogue"
+        ]
+      },
+      {
+        "title": "Facilitator",
+        "organization": "UGA Science Olympiad & CURO",
+        "dates": "Feb 2025 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "UGA Science Olympiad & CURO logo placeholder",
+        "bullets": [
+          "Facilitate STEM competitions and undergraduate research events"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Scientific Review & Evaluation Service",
+    "entries": [
+      {
+        "title": "Scholarship Reviewer",
+        "organization": "Great Minds in STEM",
+        "dates": "Jun 2026 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Great Minds in STEM logo placeholder",
+        "bullets": [
+          "Reviewed and evaluated scholarship applications from STEM students"
+        ]
+      },
+      {
+        "title": "Abstract Reviewer, 2026 Undergraduate Poster Competition",
+        "organization": "NOBCChE",
+        "dates": "Jun 2026",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "NOBCChE logo placeholder",
+        "bullets": [
+          "Reviewed and evaluated undergraduate research abstracts"
+        ]
+      },
+      {
+        "title": "Abstract Screener",
+        "organization": "American Association of Pharmaceutical Scientists - PharmSci 360",
+        "dates": "Apr 2026 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "American Association of Pharmaceutical Scientists - PharmSci 360 logo placeholder",
+        "bullets": [
+          "Reviewed and scored scientific poster abstracts for a major international pharmaceutical sciences conference"
+        ]
+      },
+      {
+        "title": "Conference Judge",
+        "organization": "NOBCChE National Conference",
+        "dates": "Sep 2025 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "NOBCChE National Conference logo placeholder",
+        "bullets": [
+          "Evaluated student research presentations for scientific merit, methodology, and communication quality"
+        ]
+      },
+      {
+        "title": "Scholarship Review Committee Member (SAB)",
+        "organization": "1,000 Dreams Fund",
+        "dates": "Apr 2026 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "1,000 Dreams Fund logo placeholder",
+        "bullets": [
+          "Reviewed and scored scholarship applications using structured evaluation rubrics"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Editorial & Peer-Review Roles",
+    "entries": [
+      {
+        "title": "Editor",
+        "organization": "Vexido Publications",
+        "dates": "Feb 2025 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Vexido Publications logo placeholder"
+      },
+      {
+        "title": "Editor",
+        "organization": "International Journal of Chemistry Research",
+        "dates": "Feb 2025 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "International Journal of Chemistry Research logo placeholder"
+      },
+      {
+        "title": "Reviewer",
+        "organization": "International Journal of Research and Innovation in Applied Science",
+        "dates": "Jul 2023 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "International Journal of Research and Innovation in Applied Science logo placeholder"
+      },
+      {
+        "title": "Reviewer",
+        "organization": "International Journal of Research and Innovation in Social Science",
+        "dates": "Jul 2025 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "International Journal of Research and Innovation in Social Science logo placeholder"
+      },
+      {
+        "title": "Reviewer",
+        "organization": "International Journal of Research and Scientific Innovation",
+        "dates": "Jul 2025 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "International Journal of Research and Scientific Innovation logo placeholder"
+      },
+      {
+        "title": "Reviewer",
+        "organization": "International Journal of Latest Technology in Engineering Management and Applied Science",
+        "dates": "Jul 2025 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "International Journal of Latest Technology in Engineering Management and Applied Science logo placeholder"
+      },
+      {
+        "title": "Reviewer",
+        "organization": "Water Practice and Technology",
+        "dates": "Jul 2025 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Water Practice and Technology logo placeholder"
+      },
+      {
+        "title": "Reviewer",
+        "organization": "JMIR Publications",
+        "dates": "Oct 2025 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "JMIR Publications logo placeholder"
+      },
+      {
+        "title": "Reviewer",
+        "organization": "Taylor & Francis - Physical Sciences",
+        "dates": "May 2026 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Taylor & Francis - Physical Sciences logo placeholder"
+      },
+      {
+        "title": "Reviewer",
+        "organization": "Taylor & Francis - Molecular Physics",
+        "dates": "May 2026 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Taylor & Francis - Molecular Physics logo placeholder"
+      }
+    ]
+  },
+  {
+    "title": "Honors and Awards (Full)",
+    "entries": [
+      {
+        "title": "SETAC North America Meeting Attendance Grant for Students",
+        "organization": "Society of Environmental Toxicology and Chemistry (SETAC)",
+        "dates": "2026",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Society of Environmental Toxicology and Chemistry (SETAC) logo placeholder",
+        "bullets": [
+          "Competitive student attendance grant for the 47th SETAC North America Annual Meeting, Montreal; includes complimentary registration and a $500 travel grant"
+        ]
+      },
+      {
+        "title": "NOBCChE Advancing Science Conference Grant (Tier 1)",
+        "organization": "NOBCChE",
+        "dates": "2026",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "NOBCChE logo placeholder",
+        "bullets": [
+          "Competitive Tier 1 grant to support participation in the 53rd Annual NOBCChE Conference; includes five nights of conference lodging and discounted registration, selected alongside abstract acceptance"
+        ]
+      },
+      {
+        "title": "Graduate School Travel Grant Award ($900)",
+        "organization": "University of Georgia",
+        "dates": "2026",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "University of Georgia logo placeholder",
+        "bullets": [
+          "Competitive travel grant to support presentation of graduate research at an international scientific conference"
+        ]
+      },
+      {
+        "title": "ACS Division of Biological Chemistry and Chemical Biology Travel Award ($600)",
+        "organization": "American Chemical Society",
+        "dates": "2026",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "American Chemical Society logo placeholder",
+        "bullets": [
+          "Supported attendance at the ACS National Meeting in Chicago, Illinois (Aug 23-27, 2026)"
+        ]
+      },
+      {
+        "title": "HUPO 2026 Travel Award ($1,000)",
+        "organization": "Human Proteome Organization (HUPO)",
+        "dates": "2026",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Human Proteome Organization (HUPO) logo placeholder",
+        "bullets": [
+          "Supported attendance at the 25th HUPO World Congress, Singapore; includes complimentary congress registration"
+        ]
+      },
+      {
+        "title": "Selected for Studentship - ACA Summer Course in Chemical Crystallography",
+        "organization": "American Crystallographic Association (ACA), ICDD, and CCDC",
+        "dates": "Jun 2026",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "American Crystallographic Association (ACA), ICDD, and CCDC logo placeholder",
+        "bullets": [
+          "Competitive studentship for the 2026 ACA Summer Course in Chemical Crystallography, Purdue University"
+        ]
+      },
+      {
+        "title": "CEAS Safety Employee of the Month",
+        "organization": "Johnson & Johnson",
+        "dates": "May 2026",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Johnson & Johnson logo placeholder",
+        "bullets": [
+          "Selected through the Good Saves safety recognition program within Cell Engineering & Analytical Sciences (CEAS); included a $50 lunch gift card"
+        ]
+      },
+      {
+        "title": "ISCE Family Fund Support Award ($500)",
+        "organization": "International Society of Chemical Ecology",
+        "dates": "May 2026",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "International Society of Chemical Ecology logo placeholder",
+        "bullets": [
+          "Awarded to facilitate participation in the 2026 Annual Meeting"
+        ]
+      },
+      {
+        "title": "ISCE Student Travel Award ($1,000)",
+        "organization": "International Society of Chemical Ecology",
+        "dates": "May 2026",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "International Society of Chemical Ecology logo placeholder",
+        "bullets": [
+          "Competitive travel award to support attendance and participation in the 2026 ISCE Annual Meeting"
+        ]
+      },
+      {
+        "title": "IUCr2026 Congress Bursary Award ($325)",
+        "organization": "IUCr2026 Bursary Review Committee",
+        "dates": "May 2026",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "IUCr2026 Bursary Review Committee logo placeholder",
+        "bullets": [
+          "Supported travel and accommodation for the 2026 Congress of the International Union of Crystallography, Calgary"
+        ]
+      },
+      {
+        "title": "Inspire Cheer Award",
+        "organization": "Johnson & Johnson",
+        "dates": "Apr 2026",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Johnson & Johnson logo placeholder",
+        "bullets": [
+          "Recognized outstanding contributions to onboarding processes and tracking of critical sample streams within CEAS; included 2,500 recognition points ($50 value)"
+        ]
+      },
+      {
+        "title": "Selected Fellow, NOBCChE Leadership Academy (2026 Cohort)",
+        "organization": "NOBCChE",
+        "dates": "Apr 2026 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "NOBCChE logo placeholder",
+        "bullets": [
+          "Competitive leadership development program focused on strengthening leadership capacity and professional identity in STEM"
+        ]
+      },
+      {
+        "title": "Selected Participant, SACNAS CareerCon 2026",
+        "organization": "SACNAS",
+        "dates": "Apr 2026",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "SACNAS logo placeholder",
+        "bullets": [
+          "Application-based, members-only career and leadership program connecting STEM professionals with industry and government experts"
+        ]
+      },
+      {
+        "title": "Travel Subsidy Award ($500), ACS BIOT",
+        "organization": "ACS Division of Biochemical Technology",
+        "dates": "2026",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "ACS Division of Biochemical Technology logo placeholder",
+        "bullets": [
+          "Supported attendance at the ACS Spring 2026 Meeting; recognized submitted research in biochemical technology"
+        ]
+      },
+      {
+        "title": "Travel Award ($700) & Registration Waiver, Cancer Glyco-X 2026",
+        "organization": "Van Andel Institute",
+        "dates": "May 2026",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Van Andel Institute logo placeholder",
+        "bullets": [
+          "Recognized scientific merit of research on 'Optimizing PGC LC Ion Mobility Mass Spectrometry for Structural Characterization of Cancer-Related N-Linked Glycans'"
+        ]
+      },
+      {
+        "title": "Fully Funded Invited Participant, AIM Workshop (NSF Sponsored)",
+        "organization": "American Institute of Mathematics",
+        "dates": "Mar-Apr 2026",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "American Institute of Mathematics logo placeholder",
+        "bullets": [
+          "'Addressing Declining Pollinator Populations through New Mathematics'; included travel, accommodation, and per diem"
+        ]
+      },
+      {
+        "title": "Selected Mentee, NOBCChE Compass Mentoring Program (Inaugural Cohort)",
+        "organization": "NOBCChE",
+        "dates": "Feb 2026 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "NOBCChE logo placeholder",
+        "bullets": [
+          "Structured mentoring program focused on goal setting, professional development, and long-term career planning"
+        ]
+      },
+      {
+        "title": "FeMS Empowerment Award ($300, Q1 2026)",
+        "organization": "Females in Mass Spectrometry (FeMS)",
+        "dates": "2026",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Females in Mass Spectrometry (FeMS) logo placeholder",
+        "bullets": [
+          "Competitive grant recognizing leadership, community impact, and promise in mass spectrometry research"
+        ]
+      },
+      {
+        "title": "Full Member (Elected)",
+        "organization": "Sigma Xi, The Scientific Research Honor Society",
+        "dates": "Aug 2025 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Sigma Xi, The Scientific Research Honor Society logo placeholder",
+        "bullets": [
+          "Formally inducted based on noteworthy achievement as an original investigator; requires peer-reviewed research output, sponsorship, and committee approval"
+        ]
+      },
+      {
+        "title": "SLAS Travel Award (valued $4,500+)",
+        "organization": "Society for Laboratory Automation and Screening (SLAS)",
+        "dates": "2025",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Society for Laboratory Automation and Screening (SLAS) logo placeholder",
+        "bullets": [
+          "Highly competitive international travel grant to present peer-reviewed research at the SLAS2026 International Conference"
+        ]
+      },
+      {
+        "title": "Gordon Research Conference Travel Award",
+        "organization": "Enzymes, Coenzymes & Metabolic Pathways GRC",
+        "dates": "2025",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Enzymes, Coenzymes & Metabolic Pathways GRC logo placeholder",
+        "bullets": [
+          "Competitively selected to present original research at an invitation-only Gordon Research Conference"
+        ]
+      },
+      {
+        "title": "Advancing Science Conference Grant & Conference Judge",
+        "organization": "NOBCChE National Conference",
+        "dates": "2025",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "NOBCChE National Conference logo placeholder",
+        "bullets": [
+          "Awarded a competitive conference grant and selected as a national-level judge evaluating student research presentations"
+        ]
+      },
+      {
+        "title": "Dual-Awarded Research Presenter",
+        "organization": "SACNAS NDiSTEM Conference",
+        "dates": "2025",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "SACNAS NDiSTEM Conference logo placeholder",
+        "bullets": [
+          "Complimentary registration and additional sponsorship through ACS Bridge"
+        ]
+      },
+      {
+        "title": "Mentor Judge",
+        "organization": "SACNAS National Diversity in STEM (NDiSTEM) Conference",
+        "dates": "2025",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "SACNAS National Diversity in STEM (NDiSTEM) Conference logo placeholder",
+        "bullets": [
+          "Selected to provide expert evaluation and mentorship to student researchers"
+        ]
+      },
+      {
+        "title": "Competitively Selected Participant",
+        "organization": "ACS Bridge Career Conference",
+        "dates": "2025",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "ACS Bridge Career Conference logo placeholder",
+        "bullets": [
+          "Elite professional development program sponsored by ACS and the Genentech Foundation"
+        ]
+      },
+      {
+        "title": "Accepted Research Presenter & Selected Volunteer",
+        "organization": "ACS SERMACS/SWRM",
+        "dates": "2025",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "ACS SERMACS/SWRM logo placeholder",
+        "bullets": [
+          "Complimentary registration awarded in recognition of conference volunteer service"
+        ]
+      },
+      {
+        "title": "Featured: 'Leaders of Tomorrow'",
+        "organization": "Sustainable UGA Alumni News",
+        "dates": "2025",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Sustainable UGA Alumni News logo placeholder",
+        "bullets": [
+          "Recognized for leadership and sustainability impact through the Vet Med Pollinator Meadow Capstone Project"
+        ]
+      },
+      {
+        "title": "Top Voice Recognition",
+        "organization": "SciProfiles (MDPI)",
+        "dates": "2025",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "SciProfiles (MDPI) logo placeholder",
+        "bullets": [
+          "Recognized for thought leadership on research efficiency, structured experimentation, and scientific practice"
+        ]
+      },
+      {
+        "title": "Graduate School Travel Grant Award ($1,000)",
+        "organization": "University of Georgia",
+        "dates": "2025",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "University of Georgia logo placeholder",
+        "bullets": [
+          "Supported presentation of graduate research at the Enzymes, Coenzymes and Metabolic Pathways Gordon Research Conference"
+        ]
+      },
+      {
+        "title": "Accepted Research Presenter",
+        "organization": "Southeastern Chemical Biology & Drug Discovery Symposium",
+        "dates": "2025",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Southeastern Chemical Biology & Drug Discovery Symposium logo placeholder"
+      },
+      {
+        "title": "A Review of Mass Spectrometry as an Important Analytical Tool for Structural Elucidation of Biological Products (peer-reviewed publication)",
+        "organization": "Journal of Progress in Engineering and Physical Science",
+        "dates": "2024",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Journal of Progress in Engineering and Physical Science logo placeholder",
+        "bullets": [
+          "JPEPS 2024, 3, 23-31"
+        ]
+      },
+      {
+        "title": "Undergraduate Research Excellence Award",
+        "organization": "University of Nigeria, Nsukka",
+        "dates": "Earlier",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "University of Nigeria, Nsukka logo placeholder",
+        "flag": "NG",
+        "flag_alt": "Country flag"
+      },
+      {
+        "title": "Best Science (Final Year) Student",
+        "organization": "University of Nigeria, Nsukka",
+        "dates": "Earlier",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "University of Nigeria, Nsukka logo placeholder",
+        "flag": "NG",
+        "flag_alt": "Country flag"
+      },
+      {
+        "title": "Best SUG Executive (Treasurer)",
+        "organization": "Students' Union Government, UNN",
+        "dates": "Earlier",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Students' Union Government, UNN logo placeholder",
+        "flag": "NG",
+        "flag_alt": "Country flag"
+      },
+      {
+        "title": "Excellent Leader / Best Students' Representative",
+        "organization": "National Association of Science Students",
+        "dates": "Earlier",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "National Association of Science Students logo placeholder",
+        "flag": "NG",
+        "flag_alt": "Country flag"
+      },
+      {
+        "title": "Best Departmental Executive",
+        "organization": "Students' Chemical Society of Nigeria, UNN Chapter",
+        "dates": "Earlier",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Students' Chemical Society of Nigeria, UNN Chapter logo placeholder",
+        "flag": "NG",
+        "flag_alt": "Country flag"
+      }
+    ]
+  },
+  {
+    "title": "Professional Memberships - Elected Honor Societies",
+    "entries": [
+      {
+        "title": "Full Member",
+        "organization": "Sigma Xi, The Scientific Research Honor Society",
+        "dates": "Aug 2025 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Sigma Xi, The Scientific Research Honor Society logo placeholder"
+      },
+      {
+        "title": "Elected Member",
+        "organization": "National Institute of Professional Engineers and Scientists (NIPES)",
+        "dates": "Nov 2025 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "National Institute of Professional Engineers and Scientists (NIPES) logo placeholder"
+      }
+    ]
+  },
+  {
+    "title": "Professional Memberships - Leadership Positions",
+    "entries": [
+      {
+        "title": "Secretary",
+        "organization": "SACNAS, Georgia Chapter",
+        "dates": "Jul 2025 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "SACNAS, Georgia Chapter logo placeholder"
+      },
+      {
+        "title": "Student Advisory Board Member",
+        "organization": "1,000 Dreams Fund",
+        "dates": "Sep 2025 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "1,000 Dreams Fund logo placeholder"
+      },
+      {
+        "title": "Committee Member",
+        "organization": "Society of Chemical Industry, Young Chemists Panel (SCI)",
+        "dates": "Sep 2025 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Society of Chemical Industry, Young Chemists Panel (SCI) logo placeholder"
+      }
+    ]
+  },
+  {
+    "title": "Professional Memberships - Major Professional Societies - Chemistry and Chemical Engineering",
+    "entries": [
+      {
+        "title": "Member",
+        "organization": "Northeastern Section Younger Chemists Committee (NSYCC)",
+        "dates": "Jan 2026 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Northeastern Section Younger Chemists Committee (NSYCC) logo placeholder"
+      },
+      {
+        "title": "Member",
+        "organization": "Women in Chemicals",
+        "dates": "Jan 2026 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Women in Chemicals logo placeholder"
+      },
+      {
+        "title": "Member",
+        "organization": "American Chemical Society (Analytical, Biological Chemistry, Carbohydrate, and Chemical Glycobiology divisions)",
+        "dates": "Jan 2025 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "American Chemical Society (Analytical, Biological Chemistry, Carbohydrate, and Chemical Glycobiology divisions) logo placeholder"
+      },
+      {
+        "title": "Member",
+        "organization": "Royal Society of Chemistry (RSC)",
+        "dates": "Jan 2022 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Royal Society of Chemistry (RSC) logo placeholder"
+      },
+      {
+        "title": "Member",
+        "organization": "German Chemical Society (GDCh)",
+        "dates": "Aug 2025 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "German Chemical Society (GDCh) logo placeholder"
+      },
+      {
+        "title": "Member",
+        "organization": "Society of Chemical Industry (SCI)",
+        "dates": "Aug 2025 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Society of Chemical Industry (SCI) logo placeholder"
+      },
+      {
+        "title": "Affiliate Member",
+        "organization": "International Union of Pure and Applied Chemistry (IUPAC)",
+        "dates": "Jan 2024 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "International Union of Pure and Applied Chemistry (IUPAC) logo placeholder"
+      },
+      {
+        "title": "Member",
+        "organization": "Chemical Society of Nigeria (CSN)",
+        "dates": "Jan 2021 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Chemical Society of Nigeria (CSN) logo placeholder"
+      }
+    ]
+  },
+  {
+    "title": "Professional Memberships - Diversity and Inclusion Organizations",
+    "entries": [
+      {
+        "title": "Member",
+        "organization": "NOBCChE",
+        "dates": "Jun 2025 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "NOBCChE logo placeholder"
+      },
+      {
+        "title": "Member and Chapter Secretary",
+        "organization": "SACNAS",
+        "dates": "Jul 2025 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "SACNAS logo placeholder"
+      },
+      {
+        "title": "Member",
+        "organization": "American Indian Science and Engineering Society (AISES)",
+        "dates": "Jul 2025 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "American Indian Science and Engineering Society (AISES) logo placeholder"
+      }
+    ]
+  },
+  {
+    "title": "Professional Memberships - Analytical and Mass Spectrometry Organizations",
+    "entries": [
+      {
+        "title": "Member",
+        "organization": "Metabolomics Association of North America",
+        "dates": "May 2026 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Metabolomics Association of North America logo placeholder"
+      },
+      {
+        "title": "Member",
+        "organization": "Females in Mass Spectrometry (FeMS)",
+        "dates": "Jul 2025 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Females in Mass Spectrometry (FeMS) logo placeholder"
+      },
+      {
+        "title": "Member",
+        "organization": "Society for Laboratory Automation and Screening, Americas Chapter (SLAS Americas)",
+        "dates": "Aug 2025 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Society for Laboratory Automation and Screening, Americas Chapter (SLAS Americas) logo placeholder"
+      },
+      {
+        "title": "Member",
+        "organization": "Best Practices for Non-Targeted Analysis (BP4NTA)",
+        "dates": "Oct 2025 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Best Practices for Non-Targeted Analysis (BP4NTA) logo placeholder"
+      },
+      {
+        "title": "Member",
+        "organization": "Society of Environmental Toxicology and Chemistry (SETAC)",
+        "dates": "Aug 2025 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Society of Environmental Toxicology and Chemistry (SETAC) logo placeholder"
+      }
+    ]
+  },
+  {
+    "title": "Professional Memberships - Biochemistry and Biotechnology Organizations",
+    "entries": [
+      {
+        "title": "Member",
+        "organization": "American Society of Pharmacognosy (ASP)",
+        "dates": "Aug 2025 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "American Society of Pharmacognosy (ASP) logo placeholder"
+      },
+      {
+        "title": "Member",
+        "organization": "European Society of Applied Biocatalysis (ESAB)",
+        "dates": "Jul 2025 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "European Society of Applied Biocatalysis (ESAB) logo placeholder"
+      },
+      {
+        "title": "Member",
+        "organization": "European Society of Biochemical Engineering Sciences (ESBES) - sections: Modelling/Monitoring/Measurement & Control, Food Bioprocess, Downstream Processing, Metabolic Engineering and System Biology, Strain and Enzyme Engineering",
+        "dates": "Jul 2025 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "European Society of Biochemical Engineering Sciences (ESBES) - sections: Modelling/Monitoring/Measurement & Control, Food Bioprocess, Downstream Processing, Metabolic Engineering and System Biology, Strain and Enzyme Engineering logo placeholder"
+      },
+      {
+        "title": "Member",
+        "organization": "International Society of Chemical Ecology (ISCE)",
+        "dates": "Aug 2025 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "International Society of Chemical Ecology (ISCE) logo placeholder"
+      }
+    ]
+  },
+  {
+    "title": "Professional Memberships - Engineering and Applied Sciences Organizations",
+    "entries": [
+      {
+        "title": "Member",
+        "organization": "ACA: The Structural Science Society (formerly American Crystallographic Association)",
+        "dates": "Jan 2026 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "ACA: The Structural Science Society (formerly American Crystallographic Association) logo placeholder"
+      },
+      {
+        "title": "Member",
+        "organization": "Society of Women Engineers (SWE)",
+        "dates": "Dec 2025 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Society of Women Engineers (SWE) logo placeholder"
+      },
+      {
+        "title": "Member",
+        "organization": "American Institute of Chemical Engineers (AIChE)",
+        "dates": "Jul 2025 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "American Institute of Chemical Engineers (AIChE) logo placeholder"
+      },
+      {
+        "title": "Member",
+        "organization": "German Bunsen Society for Physical Chemistry (Bunsen-Gesellschaft)",
+        "dates": "Aug 2025 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "German Bunsen Society for Physical Chemistry (Bunsen-Gesellschaft) logo placeholder"
+      }
+    ]
+  },
+  {
+    "title": "Professional Memberships - Specialized Research Organizations",
+    "entries": [
+      {
+        "title": "Member",
+        "organization": "American Society of Clinical Oncology (ASCO)",
+        "dates": "Jan 2026 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "American Society of Clinical Oncology (ASCO) logo placeholder"
+      },
+      {
+        "title": "Member",
+        "organization": "Society of Infectious Diseases Pharmacists (SIDP)",
+        "dates": "Aug 2025 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Society of Infectious Diseases Pharmacists (SIDP) logo placeholder"
+      },
+      {
+        "title": "Member",
+        "organization": "Taiwan Glycoscience Alliance (TGA)",
+        "dates": "Dec 2025 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Taiwan Glycoscience Alliance (TGA) logo placeholder"
+      },
+      {
+        "title": "Member",
+        "organization": "International Society for Molecular Recognition (ISMR)",
+        "dates": "Jul 2025 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "International Society for Molecular Recognition (ISMR) logo placeholder"
+      },
+      {
+        "title": "Member",
+        "organization": "International Society for Molecular Neurodegeneration (ISMN)",
+        "dates": "Jul 2025 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "International Society for Molecular Neurodegeneration (ISMN) logo placeholder"
+      },
+      {
+        "title": "Member",
+        "organization": "Society for Redox Biology and Medicine (SfRBM)",
+        "dates": "Jul 2025 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Society for Redox Biology and Medicine (SfRBM) logo placeholder"
+      },
+      {
+        "title": "Member",
+        "organization": "Genetics Society of America (GSA)",
+        "dates": "Jul 2025 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Genetics Society of America (GSA) logo placeholder"
+      },
+      {
+        "title": "Member",
+        "organization": "Society for Systematic Biologists (SSB)",
+        "dates": "Jul 2025 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Society for Systematic Biologists (SSB) logo placeholder"
+      },
+      {
+        "title": "Member",
+        "organization": "International Society for Evolution, Medicine and Public Health (ISEMPH)",
+        "dates": "Jul 2025 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "International Society for Evolution, Medicine and Public Health (ISEMPH) logo placeholder"
+      }
+    ]
+  },
+  {
+    "title": "Professional Memberships - Sustainability and Green Chemistry Organizations",
+    "entries": [
+      {
+        "title": "Member",
+        "organization": "Green Chemistry for Sustainability (GCS)",
+        "dates": "Aug 2025 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Green Chemistry for Sustainability (GCS) logo placeholder"
+      },
+      {
+        "title": "Member",
+        "organization": "Change Chemistry",
+        "dates": "Jul 2025 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Change Chemistry logo placeholder"
+      }
+    ]
+  },
+  {
+    "title": "Professional Memberships - Data Science and Research Infrastructure Organizations",
+    "entries": [
+      {
+        "title": "Member",
+        "organization": "Research Data Alliance (RDA)",
+        "dates": "Nov 2025 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Research Data Alliance (RDA) logo placeholder"
+      },
+      {
+        "title": "Member",
+        "organization": "Data Science for Health Discovery and Innovation in Africa (DS-I Africa)",
+        "dates": "Jan 2021 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Data Science for Health Discovery and Innovation in Africa (DS-I Africa) logo placeholder"
+      }
+    ]
+  },
+  {
+    "title": "Professional Memberships - Community and Professional Development Organizations",
+    "entries": [
+      {
+        "title": "Member",
+        "organization": "Healthcare BusinessWomen's Association (HBA)",
+        "dates": "Jul 2026 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Healthcare BusinessWomen's Association (HBA) logo placeholder"
+      },
+      {
+        "title": "Member",
+        "organization": "Association for Advancing Participatory Sciences",
+        "dates": "Dec 2025 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Association for Advancing Participatory Sciences logo placeholder"
+      },
+      {
+        "title": "Member",
+        "organization": "Drug Discovery World (DDW)",
+        "dates": "Nov 2025 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Drug Discovery World (DDW) logo placeholder"
+      },
+      {
+        "title": "Member",
+        "organization": "STEM for Development",
+        "dates": "Nov 2025 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "STEM for Development logo placeholder"
+      },
+      {
+        "title": "Member",
+        "organization": "Young Researchers Forum of Nigeria (YRFN)",
+        "dates": "Sep 2025 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Young Researchers Forum of Nigeria (YRFN) logo placeholder"
+      },
+      {
+        "title": "Member",
+        "organization": "Cystic Fibrosis Western Australia",
+        "dates": "Nov 2025 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Cystic Fibrosis Western Australia logo placeholder"
+      }
+    ]
+  },
+  {
+    "title": "Professional Memberships - Education and Teaching Organizations",
+    "entries": [
+      {
+        "title": "Member",
+        "organization": "Science Teachers Association of Nigeria (STAN)",
+        "dates": "Jan 2020 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Science Teachers Association of Nigeria (STAN) logo placeholder"
+      },
+      {
+        "title": "Member",
+        "organization": "Teacher Registration Council of Nigeria (TRCN)",
+        "dates": "Jan 2019 - Present",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Teacher Registration Council of Nigeria (TRCN) logo placeholder"
+      }
+    ]
+  },
+  {
+    "title": "Conference Presentations (Oral/Poster)",
+    "entries": [
+      {
+        "title": "Optimizing PGC LC Ion Mobility Mass Spectrometry for Structural Characterization of Cancer-Related N-Linked Glycans",
+        "organization": "Cancer Glyco X-2026, Van Andel Institute, Grand Rapids, USA",
+        "dates": "5-6 May 2026",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Cancer Glyco X-2026, Van Andel Institute, Grand Rapids, USA logo placeholder",
+        "bullets": [
+          "Poster & Poster Highlight Talk"
+        ]
+      },
+      {
+        "title": "Structural and Mechanistic Characterization of AprL, a PLP-Dependent Aminotransferase in Apramycin Biosynthesis",
+        "organization": "ACS Spring 2026, Atlanta, USA",
+        "dates": "22-26 March 2026",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "ACS Spring 2026, Atlanta, USA logo placeholder",
+        "bullets": [
+          "Poster Presentation"
+        ]
+      },
+      {
+        "title": "Systematic Cofactor Reconstitution of AprL Aminotransferase Enables Antibiotic Biosynthesis Studies",
+        "organization": "SLAS 2026, Boston, USA",
+        "dates": "7-11 February 2026",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "SLAS 2026, Boston, USA logo placeholder",
+        "bullets": [
+          "Poster Presentation"
+        ]
+      },
+      {
+        "title": "Temperature-Optimized Porous Graphitic Carbon Chromatography for Improved Resolution of High-Mannose Glycans",
+        "organization": "17th Multidimensional Chromatography Workshop, Williamsburg, VA, USA",
+        "dates": "13-15 January 2026",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "17th Multidimensional Chromatography Workshop, Williamsburg, VA, USA logo placeholder",
+        "bullets": [
+          "Oral Presentation"
+        ]
+      },
+      {
+        "title": "Integrated Computational Pipeline for PLP-Dependent Enzymes Applied to AprL Aminotransferase",
+        "organization": "Pfizer Chemistry Connect, Online",
+        "dates": "12 November 2025",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Pfizer Chemistry Connect, Online logo placeholder",
+        "bullets": [
+          "Oral Presentation"
+        ]
+      },
+      {
+        "title": "Overcoming Cofactor Incorporation Challenges in PLP-Dependent Aminotransferase AprL for Antibiotic Biosynthesis Research",
+        "organization": "NDiSTEM Conference (SACNAS), Columbus, USA",
+        "dates": "30 October - 1 November 2025",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "NDiSTEM Conference (SACNAS), Columbus, USA logo placeholder",
+        "bullets": [
+          "Poster Presentation"
+        ]
+      },
+      {
+        "title": "Enabling Structural and Functional Characterization of AprL Aminotransferase: Optimized Cofactor Reconstitution for Antibiotic Biosynthesis Research",
+        "organization": "SERMACS/SWRM 2025, American Chemical Society, Orlando, USA",
+        "dates": "26-29 October 2025",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "SERMACS/SWRM 2025, American Chemical Society, Orlando, USA logo placeholder",
+        "bullets": [
+          "Poster Presentation"
+        ]
+      },
+      {
+        "title": "Structural and Mechanistic Insights into the PLP-Dependent Aminotransferase AprL: Toward Understanding Aminoglycoside Biosynthesis",
+        "organization": "Doctoral Colloquium 2025, University of Mauritius",
+        "dates": "8-10 October 2025",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Doctoral Colloquium 2025, University of Mauritius logo placeholder"
+      },
+      {
+        "title": "Enzymatic Platform for Neurotropic Antibiotic Development: Addressing Multidrug-Resistant Neuroinfections in Neurodegenerative Disease Populations",
+        "organization": "ISMND NextGen 2025, Online",
+        "dates": "25 August - 26 September 2025",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "ISMND NextGen 2025, Online logo placeholder",
+        "bullets": [
+          "Oral Presentation"
+        ]
+      },
+      {
+        "title": "Heterologous Expression, Purification, and Cofactor Binding Analysis of the PLP-Dependent Aminotransferase AprL from Streptoalloteichus hindustanus",
+        "organization": "Enzymes, Coenzymes and Metabolic Pathways Gordon Research Conference, New Boston, NH, USA",
+        "dates": "20-25 July 2025",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Enzymes, Coenzymes and Metabolic Pathways Gordon Research Conference, New Boston, NH, USA logo placeholder",
+        "bullets": [
+          "Poster Presentation"
+        ]
+      },
+      {
+        "title": "Heterologous Expression, Purification, and Cofactor Binding Analysis of the PLP-Dependent Aminotransferase AprL from Streptoalloteichus hindustanus",
+        "organization": "Enzymes, Coenzymes and Metabolic Pathways Gordon Research Seminar, New Boston, NH, USA",
+        "dates": "19-20 July 2025",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Enzymes, Coenzymes and Metabolic Pathways Gordon Research Seminar, New Boston, NH, USA logo placeholder",
+        "bullets": [
+          "Poster Presentation"
+        ]
+      },
+      {
+        "title": "In Silico Structural and Functional Analysis of AprL, a PLP-Dependent Enzyme from Streptoalloteichus hindustanus",
+        "organization": "Southwest NOBCChE Virtual Symposium 2025, Online",
+        "dates": "17-18 July 2025",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Southwest NOBCChE Virtual Symposium 2025, Online logo placeholder",
+        "bullets": [
+          "Oral Presentation"
+        ]
+      },
+      {
+        "title": "Investigating the PLP Cofactor Binding State of AprL from Streptoalloteichus hindustanus: Insights into Its Functional Activation",
+        "organization": "SCBDDS 2025, University of Georgia, Athens, USA",
+        "dates": "21 May 2025",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "SCBDDS 2025, University of Georgia, Athens, USA logo placeholder",
+        "bullets": [
+          "Poster Presentation"
+        ]
+      },
+      {
+        "title": "Structural and Functional Characterization of AprL from Streptoalloteichus hindustanus in Carbohydrate Biosynthesis",
+        "organization": "15th Southeast Enzyme Conference (SEC), Atlanta, USA",
+        "dates": "26 April 2025",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "15th Southeast Enzyme Conference (SEC), Atlanta, USA logo placeholder",
+        "bullets": [
+          "Poster Presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Conferences Attended (No Presentation)",
+    "entries": [
+      {
+        "title": "The Future of Bio/Pharmaceutical Analysis Online Summit",
+        "organization": "Online",
+        "dates": "23-25 June 2026",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Online logo placeholder"
+      },
+      {
+        "title": "TDX CONVERGE 2026",
+        "organization": "Online",
+        "dates": "2-3 June 2026",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Online logo placeholder"
+      },
+      {
+        "title": "Infectious Disease Symposium",
+        "organization": "Online",
+        "dates": "19-20 May 2026",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Online logo placeholder"
+      },
+      {
+        "title": "Addressing Declining Pollinator Populations Through New Mathematics (Invited Participant)",
+        "organization": "American Institute of Mathematics, Pasadena, USA",
+        "dates": "30 March - 3 April 2026",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "American Institute of Mathematics, Pasadena, USA logo placeholder"
+      },
+      {
+        "title": "PhD Career Conference",
+        "organization": "Online",
+        "dates": "4-8 May 2026",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Online logo placeholder"
+      },
+      {
+        "title": "SMARTSCIFRIKA Virtual Conference 2026",
+        "organization": "Online",
+        "dates": "30 April - 1 May 2026",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Online logo placeholder"
+      },
+      {
+        "title": "CareerCon 2026 (SACNAS)",
+        "organization": "Online",
+        "dates": "7-9 April 2026",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Online logo placeholder"
+      },
+      {
+        "title": "The 7th Annual CNPD Conference",
+        "organization": "Online",
+        "dates": "2-6 March 2026",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Online logo placeholder"
+      },
+      {
+        "title": "Bionano Symposium 2026",
+        "organization": "Online",
+        "dates": "23-26 February 2026",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Online logo placeholder"
+      },
+      {
+        "title": "Wolfram System Modeler User Conference 2026",
+        "organization": "Online",
+        "dates": "18 February 2026",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Online logo placeholder"
+      },
+      {
+        "title": "Antimicrobial Chemotherapy Conference 2026",
+        "organization": "Online",
+        "dates": "4-5 February 2026",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Online logo placeholder"
+      },
+      {
+        "title": "Current Trends in Seized Drug Analysis Symposium",
+        "organization": "Online",
+        "dates": "26-31 January 2026",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Online logo placeholder"
+      },
+      {
+        "title": "Africa Summit for Sustainable Development (ASSD 2026)",
+        "organization": "Online",
+        "dates": "22-24 January 2026",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Online logo placeholder"
+      },
+      {
+        "title": "7th EFMC2 Tandem Talks",
+        "organization": "Online",
+        "dates": "4 December 2025",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Online logo placeholder"
+      },
+      {
+        "title": "ACS Bridge Career Conference 2025",
+        "organization": "Columbus, USA",
+        "dates": "1-3 November 2025",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Columbus, USA logo placeholder"
+      },
+      {
+        "title": "Advances in Proteomics & Metabolomics 2025",
+        "organization": "Online",
+        "dates": "22-23 October 2025",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Online logo placeholder"
+      },
+      {
+        "title": "2025 Annual Meeting of the American Crystallographic Association (ACA)",
+        "organization": "Hybrid, Chicago, USA",
+        "dates": "18-23 July 2025",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Hybrid, Chicago, USA logo placeholder"
+      },
+      {
+        "title": "London Biotechnology Show 2025",
+        "organization": "Hybrid, London, UK",
+        "dates": "18-19 June 2025",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Hybrid, London, UK logo placeholder"
+      },
+      {
+        "title": "LSE Virtual Scientific Vendor Expo",
+        "organization": "Online",
+        "dates": "23 May 2025",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Online logo placeholder"
+      },
+      {
+        "title": "The State of Multiomics & NGS",
+        "organization": "Online",
+        "dates": "23 April 2025",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Online logo placeholder"
+      },
+      {
+        "title": "PREDICT Symposium 2025",
+        "organization": "Online",
+        "dates": "18 April 2025",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Online logo placeholder"
+      },
+      {
+        "title": "Atlanta-Athens Mass Spectrometry Discussion Group (AAMSDG) 2024",
+        "organization": "Athens, USA",
+        "dates": "28 March 2025",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Athens, USA logo placeholder"
+      },
+      {
+        "title": "The 12th Annual Chess & Community Conference",
+        "organization": "Athens, USA",
+        "dates": "29 March 2025",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Athens, USA logo placeholder"
+      },
+      {
+        "title": "Advances in Cancer Therapies and Diagnostics",
+        "organization": "Online",
+        "dates": "18-19 March 2025",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Online logo placeholder"
+      },
+      {
+        "title": "UGA-GCC Joint Cancer Center Retreat",
+        "organization": "Athens, USA",
+        "dates": "4 December 2024",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Athens, USA logo placeholder"
+      },
+      {
+        "title": "Alpha-Gal Symposium 2024",
+        "organization": "Athens, USA",
+        "dates": "20-21 November 2024",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Athens, USA logo placeholder"
+      },
+      {
+        "title": "Leeds-UGA Global Drug Discovery Symposium",
+        "organization": "Athens, USA",
+        "dates": "7 November 2024",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Athens, USA logo placeholder"
+      },
+      {
+        "title": "Sustainable Solutions for Climate Change Mini-Symposium",
+        "organization": "Athens, USA",
+        "dates": "18 October 2024",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Athens, USA logo placeholder"
+      },
+      {
+        "title": "SCIEX Summit 2024",
+        "organization": "Framingham, USA",
+        "dates": "24-26 September 2024",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Framingham, USA logo placeholder"
+      },
+      {
+        "title": "Advances in Drug Discovery & Development",
+        "organization": "Suffolk, UK",
+        "dates": "18-19 September 2024",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Suffolk, UK logo placeholder"
+      },
+      {
+        "title": "2024 Infectious Disease & Antimicrobial Resistance Digital Forum",
+        "organization": "Wilmington, USA",
+        "dates": "9 July 2024",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Wilmington, USA logo placeholder"
+      },
+      {
+        "title": "Cresset User Group Meeting",
+        "organization": "Cambridge, UK",
+        "dates": "18-19 June 2024",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Cambridge, UK logo placeholder"
+      },
+      {
+        "title": "11th Annual Online Career Conference for PhDs",
+        "organization": "Online",
+        "dates": "6-10 May 2024",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Online logo placeholder"
+      },
+      {
+        "title": "Georgia Glycoscience Symposium 2024",
+        "organization": "Athens, USA",
+        "dates": "1-2 May 2024",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Athens, USA logo placeholder"
+      },
+      {
+        "title": "International Electronic Conference on Biomolecules (IECBM 2024)",
+        "organization": "Online",
+        "dates": "23-25 April 2024",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Online logo placeholder"
+      },
+      {
+        "title": "Graduate Student Career Conference",
+        "organization": "Athens, USA",
+        "dates": "12 January 2024",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Athens, USA logo placeholder"
+      },
+      {
+        "title": "BICAID Conference",
+        "organization": "Athens, USA",
+        "dates": "15-18 November 2023",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Athens, USA logo placeholder"
+      },
+      {
+        "title": "Atlanta-Athens Mass Spectrometry Discussion Group (AAMSDG) 2023",
+        "organization": "Atlanta, USA",
+        "dates": "20 October 2023",
+        "logo": "assets/images/institution-placeholder.svg",
+        "logo_alt": "Atlanta, USA logo placeholder"
+      }
+    ]
+  }
+]
