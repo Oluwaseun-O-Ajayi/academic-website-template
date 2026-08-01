@@ -1,11 +1,11 @@
 {
-  "name": "Jane Doe",
-  "short_name": "Jane",
-  "publication_name": "Jane Doe",
-  "citation_name": "J. Doe",
-  "email_display": "jane [dot] doe [at] example [dot] edu",
-  "site_title": "Jane Doe | Academic Website",
-  "description": "Academic website of Jane Doe.",
+  "name": "Oluwaseun O. Ajayi",
+  "short_name": "Oluwaseun",
+  "publication_name": "Oluwaseun O. Ajayi",
+  "citation_name": "O. O. Ajayi",
+  "email_display": "seunolanikeajayi [at] gmail [dot] com",
+  "site_title": "Oluwaseun Ajayi | Academic Website",
+  "description": "Academic website of Oluwaseun O. Ajayi, Chemistry PhD candidate at the University of Georgia.",
   "copyright_year": 2026,
   "footer_text": "Last updated:",
   "attribution": {
@@ -21,24 +21,26 @@
     { "label": "CV", "path": "pages/cv.html" }
   ],
   "pages": {
-    "index.html": { "title": "", "description": "Academic website of Jane Doe." },
-    "projects.html": { "title": "Projects", "description": "Research projects by Jane Doe." },
-    "publications.html": { "title": "Publications", "description": "Publications by Jane Doe." },
-    "news.html": { "title": "News", "description": "Latest news and updates from Jane Doe." },
-    "cv.html": { "title": "CV", "description": "Curriculum Vitae of Jane Doe." }
+    "index.html": { "title": "", "description": "Academic website of Oluwaseun O. Ajayi." },
+    "projects.html": { "title": "Projects", "description": "Research projects by Oluwaseun O. Ajayi." },
+    "publications.html": { "title": "Publications", "description": "Publications by Oluwaseun O. Ajayi." },
+    "news.html": { "title": "News", "description": "Latest news and updates from Oluwaseun O. Ajayi." },
+    "cv.html": { "title": "CV", "description": "Curriculum Vitae of Oluwaseun O. Ajayi." },
+    "cv-full.html": { "title": "Full CV", "description": "Complete Curriculum Vitae of Oluwaseun O. Ajayi, including full honors, memberships, service, and conference lists." }
   },
   "profile_image": "assets/images/profile-placeholder.svg",
-  "profile_image_alt": "Jane Doe profile photo placeholder",
-  "bio_html": "Jane is a doctoral researcher in Example Department at Example University. Her research focuses on an interesting research area and its applications to real-world problems. Previously, Jane completed a master's degree in Example Subject and a bachelor's degree in Example Subject. Replace this paragraph with your own biography in <code>content/site.json</code>.",
+  "profile_image_alt": "Oluwaseun O. Ajayi profile photo placeholder",
+  "bio_html": "Oluwaseun is a Chemistry PhD candidate at the University of Georgia specializing in bioanalytical chemistry, omics research, enzymology, structural biology, and computational modeling. Doctoral research focuses on AprL, a PLP-dependent aminotransferase in apramycin biosynthesis relevant to antimicrobial resistance, combining enzyme kinetics, X-ray crystallography, and computational workflows. Alongside the PhD, Oluwaseun is on a co-op with the API CEAS Automation team at Johnson &amp; Johnson's Spring House site, developing robotic workcell control logic and autonomous transport systems for biotherapeutic manufacturing. Replace or expand this paragraph as needed in <code>content/site.json</code>.",
   "contact": [
-    "jane [dot] doe [at] example [dot] edu",
-    "Example Department, Example University, City, Country"
+    "seunolanikeajayi [at] gmail [dot] com",
+    "Department of Chemistry, University of Georgia, Athens, GA"
   ],
   "social_links": [
-    { "label": "University profile", "url": "https://example.edu/your-profile", "image": "assets/images/institution-placeholder.svg", "image_class": "institution-logo", "image_alt": "Institution logo placeholder" },
-    { "label": "Google Scholar", "url": "https://scholar.google.com/", "icon": "fa-brands fa-google-scholar" },
-    { "label": "LinkedIn", "url": "https://www.linkedin.com/", "icon": "fa-brands fa-linkedin" },
-    { "label": "GitHub", "url": "https://github.com/your-username", "icon": "fa-brands fa-square-github" },
-    { "label": "ORCID", "url": "https://orcid.org/", "icon": "fa-brands fa-orcid" }
+    { "label": "ORCID", "url": "https://orcid.org/0000-0003-0040-7217", "icon": "fa-brands fa-orcid" },
+    { "label": "Google Scholar", "url": "https://scholar.google.com/citations?user=SSpDCD0AAAAJ&hl=en", "icon": "fa-brands fa-google-scholar" },
+    { "label": "LinkedIn", "url": "https://www.linkedin.com/in/oluwaseun-o-ajayi-b-sc-mrsc/", "icon": "fa-brands fa-linkedin" },
+    { "label": "GitHub", "url": "https://github.com/Oluwaseun-O-Ajayi", "icon": "fa-brands fa-square-github" },
+    { "label": "Web of Science", "url": "https://www.webofscience.com/wos/author/record/KIJ-6601-2024", "icon": "fa-solid fa-magnifying-glass" },
+    { "label": "ResearchGate", "url": "https://www.researchgate.net/profile/Oluwaseun-Ajayi-13", "icon": "fa-brands fa-researchgate" }
   ]
 }
