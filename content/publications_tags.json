@@ -1,6 +1,8 @@
 [
   { "name": "key_publications", "title": "Key Publications" },
   { "name": "journal", "title": "Journal Articles" },
+  { "name": "book_chapter", "title": "Book Chapters" },
+  { "name": "manuscript", "title": "Manuscripts" },
   { "name": "conference", "title": "Conference Papers" },
   { "name": "preprint", "title": "Preprints" }
 ]
