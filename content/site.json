@@ -18,7 +18,8 @@
     { "label": "Projects", "path": "pages/projects.html" },
     { "label": "Publications", "path": "pages/publications.html" },
     { "label": "News", "path": "pages/news.html" },
-    { "label": "CV", "path": "pages/cv.html" }
+    { "label": "CV", "path": "pages/cv.html" },
+    { "label": "Elsewhere", "path": "pages/elsewhere.html" }
   ],
   "pages": {
     "index.html": { "title": "", "description": "Academic website of Oluwaseun O. Ajayi." },
@@ -26,10 +27,11 @@
     "publications.html": { "title": "Publications", "description": "Publications by Oluwaseun O. Ajayi." },
     "news.html": { "title": "News", "description": "Latest news and updates from Oluwaseun O. Ajayi." },
     "cv.html": { "title": "CV", "description": "Curriculum Vitae of Oluwaseun O. Ajayi." },
-    "cv-full.html": { "title": "Full CV", "description": "Complete Curriculum Vitae of Oluwaseun O. Ajayi, including full honors, memberships, service, and conference lists." }
+    "cv-full.html": { "title": "Full CV", "description": "Complete Curriculum Vitae of Oluwaseun O. Ajayi, including full honors, memberships, service, and conference lists." },
+    "elsewhere.html": { "title": "Elsewhere", "description": "Find Oluwaseun O. Ajayi across academic, professional, and personal platforms." }
   },
-  "profile_image": "assets/images/profile-placeholder.svg",
-  "profile_image_alt": "Oluwaseun O. Ajayi profile photo placeholder",
+  "profile_image": "assets/images/profile.jpg",
+  "profile_image_alt": "Oluwaseun O. Ajayi",
   "bio_html": "Oluwaseun is a Chemistry PhD candidate at the University of Georgia specializing in bioanalytical chemistry, omics research, enzymology, structural biology, and computational modeling. Doctoral research focuses on AprL, a PLP-dependent aminotransferase in apramycin biosynthesis relevant to antimicrobial resistance, combining enzyme kinetics, X-ray crystallography, and computational workflows. Alongside the PhD, Oluwaseun is on a co-op with the API CEAS Automation team at Johnson &amp; Johnson's Spring House site, developing robotic workcell control logic and autonomous transport systems for biotherapeutic manufacturing. Replace or expand this paragraph as needed in <code>content/site.json</code>.",
   "contact": [
     "seunolanikeajayi [at] gmail [dot] com",
