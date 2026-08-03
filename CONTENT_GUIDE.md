@@ -110,7 +110,7 @@ Find the right `<section class="cv-section">` for the category (or add a new sec
 
 ## Update your homepage bio, contact, or social links
 File: `content/site.json`
-- `bio_html`: your homepage bio paragraph. Can include basic HTML tags like `<br>` for line breaks.
+- `bio_html`: your homepage bio paragraph. Can include basic HTML tags like `<br>` for line breaks. Replace or expand this paragraph as needed in <code>content/site.json</code>.
 - `contact`: array of plain text lines (email, department, etc.)
 - `social_links`: array of `{ "label": "...", "url": "...", "icon": "fa-brands fa-xxxx" }`. Icon names come from Font Awesome (fontawesome.com/icons), search there for the right one.
 
