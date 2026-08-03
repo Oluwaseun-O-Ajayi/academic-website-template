@@ -59,6 +59,19 @@ File: `content/publications.json`
   "created_at": 1735689600,
   "updated_at": 1735689600
 }
+e.g.
+  {
+    "id": "aprl-crystal-structure-mechanistic-implications",
+    "title": "Crystal Structure and Mechanistic Implications of the PLP-Dependent Aminotransferase AprL Involved in Apramycin Biosynthesis",
+    "content": "Oluwaseun O. Ajayi, Robert S. Phillips",
+    "link": "",
+    "publisher": "Manuscript under review",
+    "image": "assets/images/publications/placeholder-cover.svg",
+    "tags": ["key_publications", "manuscript"],
+    "buttons": [],
+    "created_at": 1767225600,
+    "updated_at": 1767225600
+  },
 ```
 - `link`: leave `""` if you don't have a DOI/URL yet.
 - `tags`: pick from `content/publications_tags.json` (currently: `key_publications`, `journal`, `book_chapter`, `manuscript`, `conference`, `preprint`). Add a new tag there first if you need a new category.
